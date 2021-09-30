@@ -8,7 +8,7 @@ Traditional ML tools include such topics as clustering, attribution models and r
 
 # Acknowledgements
 
-First version of this project was developed by Natalia Efremova, Teradata Research fellow in Marketing and AI in Said Business School, University of Oxford
-[GitHub](https://github.com/burantiar/Prometheus). 
+First version of this project was developed by Natalia Efremova , Teradata Research fellow in Marketing and AI in Said Business School, University of Oxford
+([GitHub](https://github.com/burantiar/Prometheus)), currently a lecturer in Digital Economy in Queen Mary University London ([Twitter](https://twitter.com/burantiar) ).
 
 Significant contribution to this project was done by Naoto Minakawa, a full-time student in Said Business School MBA program, currently a PhD student in Tokyo University. 
